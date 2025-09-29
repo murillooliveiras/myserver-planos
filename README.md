@@ -6,8 +6,6 @@
 
 Página de planos de hospedagem desenvolvida em **HTML e CSS**, com layout moderno em cards.
 
-🔗 **Acesse o projeto online:** [no GitHub Pages](https://murillooliveiras.github.io/myserver-planos/)
-
 ---
 
 ## 🚀 Tecnologias
